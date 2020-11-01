@@ -15,6 +15,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="development" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iBjI5OXiG5OXmOkE77zdrPJ4TH" />
@@ -32,7 +50,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.StrCompress">
     <configuration name="ArrSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -102,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StrCompress" />
-        <item itemvalue="Application.ArrSquare" />
-        <item itemvalue="Application.DbUtil" />
-        <item itemvalue="Application.synchronizedTest_fuc" />
         <item itemvalue="Application.synchronizedTest_obj" />
+        <item itemvalue="Application.synchronizedTest_fuc" />
+        <item itemvalue="Application.StrCompress" />
+        <item itemvalue="Application.DbUtil" />
+        <item itemvalue="Application.ArrSquare" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601387795841</updated>
       <workItem from="1601387800731" duration="13984000" />
-      <workItem from="1602518863340" duration="57377000" />
+      <workItem from="1602518863340" duration="58568000" />
     </task>
     <servers />
   </component>
@@ -156,25 +174,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603899296776" />
-    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1603899782049">
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1604233834201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603899782049" />
-    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1603899782048">
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604233834201" />
+    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1604233834201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603899782048" />
-    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1603899782047">
+    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604233834201" />
+    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1604233834201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603899782047" />
-    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1603899782048">
+    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604233834201" />
+    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1604233834201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603899782048" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1603899333948">
+    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604233834201" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1604234066747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603899333948" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604234066747" />
+    <state x="445" y="76" key="git4idea.branch.GitSmartOperationDialog" timestamp="1604234111424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="76" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1604234111424" />
   </component>
 </project>
